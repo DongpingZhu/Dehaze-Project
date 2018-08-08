@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AL_B	dehaze.c	/^double AL_B = 0;$/;"	v
+AL_G	dehaze.c	/^double AL_G = 0;$/;"	v
+AL_R	dehaze.c	/^double AL_R = 0;$/;"	v
+EAL	dehaze.c	/^CvScalar  EAL(IplImage* imageR,IplImage* imageG,IplImage* imageB)$/;"	f
+EJ	dehaze.c	/^IplImage* EJ(IplImage* src,CvScalar A,IplImage* transmission)$/;"	f
+ET	dehaze.c	/^IplImage*  ET(IplImage* DC)$/;"	f
+GetDarkChannel	dehaze.c	/^IplImage*  GetDarkChannel(char* imagePath,int patchSize){$/;"	f
+OnImageHazefree	paper.c	/^void CCVMFCView::OnImageHazefree()$/;"	f	class:CCVMFCView
+Pacth	dehaze.c	4;"	d	file:
+block	paper.c	/^int block=5;$/;"	v
+dst	paper.c	/^IplImage *dst=NULL;$/;"	v
+main	dehaze.c	/^int main(int argc,char** argv)$/;"	f
+on_trackbar1	paper.c	/^void on_trackbar1(int h)$/;"	f
+on_trackbar2	paper.c	/^void on_trackbar2(int h)$/;"	f
+quw	paper.c	/^IplImage *quw(IplImage *src,int block,double w)$/;"	f
+source	paper.c	/^IplImage *source;$/;"	v
+tbarname1	paper.c	/^char tbarname1[] = "调节block";$/;"	v
+tbarname2	paper.c	/^char tbarname2[] = "调节w";$/;"	v
+w	paper.c	/^double w;$/;"	v
+w1	paper.c	/^int w1=80;$/;"	v

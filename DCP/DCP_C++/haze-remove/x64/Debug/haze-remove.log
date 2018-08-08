@@ -1,0 +1,1118 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(35): warning C4820: “_timespec64”:“4”字节填充添加在 数据成员“_timespec64::tv_nsec”后
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(42): warning C4820: “timespec”:“4”字节填充添加在 数据成员“timespec::tv_nsec”后
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(49): warning C4820: “_finddata32i64_t”:“4”字节填充添加在 数据成员“_finddata32i64_t::name”后
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(54): warning C4820: “_finddata64i32_t”:“4”字节填充添加在 数据成员“_finddata64i32_t::attrib”后
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(64): warning C4820: “__finddata64_t”:“4”字节填充添加在 数据成员“__finddata64_t::attrib”后
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(69): warning C4820: “__finddata64_t”:“4”字节填充添加在 数据成员“__finddata64_t::name”后
+e:\opencv\build\include\opencv2\core\ptr.inl.hpp(89): warning C4820: “cv::detail::PtrOwner”:“4”字节填充添加在 数据成员“cv::detail::PtrOwner::refCount”后
+e:\opencv\build\include\opencv2\core\saturate.hpp(143): warning C4365: “return”: 从“int”转换到“unsigned int”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\saturate.hpp(144): warning C4365: “return”: 从“int”转换到“unsigned int”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\types.hpp(2171): warning C4946: reinterpret_cast 在相关类之间使用: “cv::Matx<double,4,1>”和“cv::Scalar_<double>”
+e:\opencv\build\include\opencv2\core\bufferpool.hpp(25): warning C4265: “cv::BufferPoolController”: 类有虚函数，但析构函数不是虚拟的
+          该类的实例可能不能正确析构
+e:\opencv\build\include\opencv2\core\mat.hpp(234): warning C4820: “cv::_InputArray”:“4”字节填充添加在 数据成员“cv::_InputArray::flags”后
+e:\opencv\build\include\opencv2\core\mat.hpp(503): warning C4820: “cv::UMatData”:“4”字节填充添加在 数据成员“cv::UMatData::flags”后
+e:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\mat.hpp(2336): warning C4820: “cv::UMat”:“4”字节填充添加在 数据成员“cv::UMat::usageFlags”后
+e:\opencv\build\include\opencv2\core\mat.hpp(2444): warning C4820: “cv::SparseMat::Hdr”:“4”字节填充添加在 数据成员“cv::SparseMat::Hdr::valueOffset”后
+e:\opencv\build\include\opencv2\core\mat.hpp(2688): warning C4820: “cv::SparseMat”:“4”字节填充添加在 数据成员“cv::SparseMat::flags”后
+e:\opencv\build\include\opencv2\core\mat.hpp(3182): warning C4820: “cv::NAryMatIterator”:“4”字节填充添加在 数据成员“cv::NAryMatIterator::narrays”后
+e:\opencv\build\include\opencv2\core\mat.hpp(3187): warning C4820: “cv::NAryMatIterator”:“4”字节填充添加在 数据成员“cv::NAryMatIterator::iterdepth”后
+e:\opencv\build\include\opencv2\core\mat.hpp(3313): warning C4820: “cv::MatExpr”:“4”字节填充添加在 数据成员“cv::MatExpr::flags”后
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(412): warning C4365: “初始化”: 从“int”转换到“size_t”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(445): warning C4365: “初始化”: 从“int”转换到“size_t”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1886): warning C4365: “return”: 从“int”转换到“size_t”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2376): warning C4365: “初始化”: 从“size_t”转换到“ptrdiff_t”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2472): warning C4365: “return”: 从“size_t”转换到“ptrdiff_t”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\persistence.hpp(438): warning C4820: “cv::FileStorage”:“4”字节填充添加在 数据成员“cv::FileStorage::state”后
+e:\opencv\build\include\opencv2\core\persistence.hpp(634): warning C4820: “cv::FileNodeIterator::SeqReader”:“4”字节填充添加在 数据成员“cv::FileNodeIterator::SeqReader::header_size”后
+e:\opencv\build\include\opencv2\core\persistence.hpp(640): warning C4820: “cv::FileNodeIterator::SeqReader”:“4”字节填充添加在 数据成员“cv::FileNodeIterator::SeqReader::delta_index”后
+e:\opencv\build\include\opencv2\core\persistence.hpp(1154): warning C4365: “return”: 从“size_t”转换到“ptrdiff_t”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core.hpp(132): warning C4820: “cv::Exception”:“4”字节填充添加在 数据成员“cv::Exception::code”后
+e:\opencv\build\include\opencv2\core.hpp(136): warning C4820: “cv::Exception”:“4”字节填充添加在 数据成员“cv::Exception::line”后
+e:\opencv\build\include\opencv2\core.hpp(2484): warning C4820: “cv::LDA”:“3”字节填充添加在 数据成员“cv::LDA::_dataAsRow”后
+e:\opencv\build\include\opencv2\core\operations.hpp(345): warning C4365: “参数”: 从“unsigned int”转换到“int”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\utility.hpp(341): warning C4365: “return”: 从“int”转换到“size_t”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\utility.hpp(508): warning C4820: “cv::TLSDataContainer”:“4”字节填充添加在 数据成员“cv::TLSDataContainer::key_”后
+e:\opencv\build\include\opencv2\core\types_c.h(325): warning C4820: “_IplImage”:“4”字节填充添加在 数据成员“_IplImage::imageSize”后
+e:\opencv\build\include\opencv2\core\types_c.h(329): warning C4820: “_IplImage”:“4”字节填充添加在 数据成员“_IplImage::BorderConst”后
+e:\opencv\build\include\opencv2\core\types_c.h(360): warning C4820: “_IplConvKernel”:“4”字节填充添加在 数据成员“_IplConvKernel::nShiftR”后
+e:\opencv\build\include\opencv2\core\types_c.h(439): warning C4820: “CvMat”:“4”字节填充添加在 数据成员“CvMat::hdr_refcount”后
+e:\opencv\build\include\opencv2\core\types_c.h(605): warning C4365: “return”: 从“unsigned __int64”转换到“int”，有符号/无符号不匹配
+e:\opencv\build\include\opencv2\core\types_c.h(641): warning C4820: “CvMatND”:“4”字节填充添加在 数据成员“CvMatND::hdr_refcount”后
+e:\opencv\build\include\opencv2\core\types_c.h(684): warning C4820: “CvSparseMat”:“4”字节填充添加在 数据成员“CvSparseMat::hdr_refcount”后
+e:\opencv\build\include\opencv2\core\types_c.h(694): warning C4820: “CvSparseMat”:“4”字节填充添加在 数据成员“CvSparseMat::size”后
+e:\opencv\build\include\opencv2\core\types_c.h(713): warning C4820: “CvSparseNode”:“4”字节填充添加在 数据成员“CvSparseNode::hashval”后
+e:\opencv\build\include\opencv2\core\types_c.h(722): warning C4820: “CvSparseMatIterator”:“4”字节填充添加在 数据成员“CvSparseMatIterator::curidx”后
+e:\opencv\build\include\opencv2\core\types_c.h(751): warning C4820: “CvHistogram”:“4”字节填充添加在 数据成员“CvHistogram::type”后
+e:\opencv\build\include\opencv2\core\types_c.h(1089): warning C4820: “CvLineIterator”:“4”字节填充添加在 数据成员“CvLineIterator::minus_step”后
+e:\opencv\build\include\opencv2\core\types_c.h(1192): warning C4820: “CvMemStorage”:“4”字节填充添加在 数据成员“CvMemStorage::signature”后
+e:\opencv\build\include\opencv2\core\types_c.h(1209): warning C4820: “CvMemStoragePos”:“4”字节填充添加在 数据成员“CvMemStoragePos::free_space”后
+e:\opencv\build\include\opencv2\core\types_c.h(1252): warning C4820: “CvSeq”:“4”字节填充添加在 数据成员“CvSeq::delta_elems”后
+e:\opencv\build\include\opencv2\core\types_c.h(1271): warning C4820: “CvSetElem”:“4”字节填充添加在 数据成员“CvSetElem::flags”后
+e:\opencv\build\include\opencv2\core\types_c.h(1282): warning C4820: “CvSet”:“4”字节填充添加在 数据成员“CvSet::delta_elems”后
+e:\opencv\build\include\opencv2\core\types_c.h(1283): warning C4820: “CvSet”:“4”字节填充添加在 数据成员“CvSet::active_count”后
+e:\opencv\build\include\opencv2\core\types_c.h(1335): warning C4820: “CvGraphVtx”:“4”字节填充添加在 数据成员“CvGraphVtx::flags”后
+e:\opencv\build\include\opencv2\core\types_c.h(1341): warning C4820: “CvGraphVtx2D”:“4”字节填充添加在 数据成员“CvGraphVtx2D::flags”后
+e:\opencv\build\include\opencv2\core\types_c.h(1356): warning C4820: “CvGraph”:“4”字节填充添加在 数据成员“CvGraph::delta_elems”后
+e:\opencv\build\include\opencv2\core\types_c.h(1356): warning C4820: “CvGraph”:“4”字节填充添加在 数据成员“CvGraph::active_count”后
+e:\opencv\build\include\opencv2\core\types_c.h(1368): warning C4820: “CvChain”:“4”字节填充添加在 数据成员“CvChain::delta_elems”后
+e:\opencv\build\include\opencv2\core\types_c.h(1381): warning C4820: “CvContour”:“4”字节填充添加在 数据成员“CvContour::delta_elems”后
+e:\opencv\build\include\opencv2\core\types_c.h(1524): warning C4820: “CvSeqWriter”:“4”字节填充添加在 数据成员“CvSeqWriter::header_size”后
+e:\opencv\build\include\opencv2\core\types_c.h(1541): warning C4820: “CvSeqReader”:“4”字节填充添加在 数据成员“CvSeqReader::header_size”后
+e:\opencv\build\include\opencv2\core\types_c.h(1541): warning C4820: “CvSeqReader”:“4”字节填充添加在 数据成员“CvSeqReader::delta_index”后
+e:\opencv\build\include\opencv2\core\types_c.h(1737): warning C4820: “CvString”:“4”字节填充添加在 数据成员“CvString::len”后
+e:\opencv\build\include\opencv2\core\types_c.h(1746): warning C4820: “CvStringHashNode”:“4”字节填充添加在 数据成员“CvStringHashNode::hashval”后
+e:\opencv\build\include\opencv2\core\types_c.h(1757): warning C4820: “CvFileNode”:“4”字节填充添加在 数据成员“CvFileNode::tag”后
+e:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\imgproc.hpp(962): warning C4820: “cv::Subdiv2D”:“3”字节填充添加在 数据成员“cv::Subdiv2D::validGeometry”后
+e:\opencv\build\include\opencv2\imgproc\types_c.h(473): warning C4820: “CvChainPtReader”:“4”字节填充添加在 数据成员“CvChainPtReader::header_size”后
+e:\opencv\build\include\opencv2\imgproc\types_c.h(473): warning C4820: “CvChainPtReader”:“4”字节填充添加在 数据成员“CvChainPtReader::delta_index”后
+e:\opencv\build\include\opencv2\imgproc\types_c.h(475): warning C4820: “CvChainPtReader”:“3”字节填充添加在 数据成员“CvChainPtReader::code”后
+e:\opencv\build\include\opencv2\imgproc\types_c.h(477): warning C4820: “CvChainPtReader”:“4”字节填充添加在 数据成员“CvChainPtReader::deltas”后
+e:\opencv\build\include\opencv2\imgproc\types_c.h(524): warning C4820: “CvConvexityDefect”:“4”字节填充添加在 数据成员“CvConvexityDefect::depth”后
+e:\opencv\build\include\opencv2\imgproc\imgproc_c.h(1123): warning C4820: “CvFont”:“4”字节填充添加在 数据成员“CvFont::font_face”后
+e:\opencv\build\include\opencv2\video\tracking_c.h(171): warning C4820: “CvKalman”:“4”字节填充添加在 数据成员“CvKalman::CP”后
+e:\opencv\build\include\opencv2\flann\miniflann.hpp(153): warning C4820: “cv::flann::Index”:“4”字节填充添加在 数据成员“cv::flann::Index::featureType”后
+e:\opencv\build\include\opencv2\features2d.hpp(201): warning C4820: “cv::Feature2D”:“4”字节填充添加在 数据成员“cv::Feature2D::{vbptr}”后
+e:\opencv\build\include\opencv2\features2d.hpp(245): warning C4820: “cv::BRISK”:“4”字节填充添加在 数据成员“cv::BRISK::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(318): warning C4820: “cv::ORB”:“4”字节填充添加在 数据成员“cv::ORB::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(377): warning C4820: “cv::MSER”:“4”字节填充添加在 数据成员“cv::MSER::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(432): warning C4820: “cv::FastFeatureDetector”:“4”字节填充添加在 数据成员“cv::FastFeatureDetector::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(486): warning C4820: “cv::AgastFeatureDetector”:“4”字节填充添加在 数据成员“cv::AgastFeatureDetector::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(512): warning C4820: “cv::GFTTDetector”:“4”字节填充添加在 数据成员“cv::GFTTDetector::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(554): warning C4820: “cv::SimpleBlobDetector::Params”:“4”字节填充添加在 数据成员“cv::SimpleBlobDetector::Params::maxThreshold”后
+e:\opencv\build\include\opencv2\features2d.hpp(561): warning C4820: “cv::SimpleBlobDetector::Params”:“1”字节填充添加在 数据成员“cv::SimpleBlobDetector::Params::filterByArea”后
+e:\opencv\build\include\opencv2\features2d.hpp(564): warning C4820: “cv::SimpleBlobDetector::Params”:“3”字节填充添加在 数据成员“cv::SimpleBlobDetector::Params::filterByCircularity”后
+e:\opencv\build\include\opencv2\features2d.hpp(567): warning C4820: “cv::SimpleBlobDetector::Params”:“3”字节填充添加在 数据成员“cv::SimpleBlobDetector::Params::filterByInertia”后
+e:\opencv\build\include\opencv2\features2d.hpp(570): warning C4820: “cv::SimpleBlobDetector::Params”:“3”字节填充添加在 数据成员“cv::SimpleBlobDetector::Params::filterByConvexity”后
+e:\opencv\build\include\opencv2\features2d.hpp(574): warning C4820: “cv::SimpleBlobDetector::Params”:“4”字节填充添加在 数据成员“cv::SimpleBlobDetector::Params::maxConvexity”后
+e:\opencv\build\include\opencv2\features2d.hpp(578): warning C4820: “cv::SimpleBlobDetector”:“4”字节填充添加在 数据成员“cv::SimpleBlobDetector::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(634): warning C4820: “cv::KAZE”:“4”字节填充添加在 数据成员“cv::KAZE::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(692): warning C4820: “cv::AKAZE”:“4”字节填充添加在 数据成员“cv::AKAZE::operator =”后
+e:\opencv\build\include\opencv2\features2d.hpp(1020): warning C4820: “cv::BFMatcher”:“3”字节填充添加在 数据成员“cv::BFMatcher::crossCheck”后
+e:\opencv\build\include\opencv2\features2d.hpp(1064): warning C4820: “cv::FlannBasedMatcher”:“4”字节填充添加在 数据成员“cv::FlannBasedMatcher::addedDescCount”后
+e:\opencv\build\include\opencv2\features2d.hpp(1215): warning C4820: “cv::BOWTrainer”:“4”字节填充添加在 数据成员“cv::BOWTrainer::size”后
+e:\opencv\build\include\opencv2\features2d.hpp(1237): warning C4820: “cv::BOWKMeansTrainer”:“4”字节填充添加在 数据成员“cv::BOWKMeansTrainer::clusterCount”后
+e:\opencv\build\include\opencv2\objdetect.hpp(429): warning C4820: “cv::HOGDescriptor”:“4”字节填充添加在 数据成员“cv::HOGDescriptor::histogramNormType”后
+e:\opencv\build\include\opencv2\objdetect.hpp(431): warning C4820: “cv::HOGDescriptor”:“7”字节填充添加在 数据成员“cv::HOGDescriptor::gammaCorrection”后
+e:\opencv\build\include\opencv2\objdetect.hpp(454): warning C4820: “cv::HOGDescriptor”:“7”字节填充添加在 数据成员“cv::HOGDescriptor::signedGradient”后
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(204): warning C4820: “cv::DetectionBasedTracker::TrackedObject”:“4”字节填充添加在 数据成员“cv::DetectionBasedTracker::TrackedObject::id”后
+e:\opencv\build\include\opencv2\objdetect\objdetect_c.h(86): warning C4820: “CvHaarClassifier”:“4”字节填充添加在 数据成员“CvHaarClassifier::count”后
+e:\opencv\build\include\opencv2\objdetect\objdetect_c.h(102): warning C4820: “CvHaarStageClassifier”:“4”字节填充添加在 数据成员“CvHaarStageClassifier::parent”后
+e:\opencv\build\include\opencv2\calib3d\calib3d_c.h(416): warning C4820: “CvLevMarq”:“4”字节填充添加在 数据成员“CvLevMarq::lambdaLg10”后
+e:\opencv\build\include\opencv2\calib3d\calib3d_c.h(420): warning C4820: “CvLevMarq”:“3”字节填充添加在 数据成员“CvLevMarq::completeSymmFlag”后
+e:\opencv\build\include\opencv2\highgui.hpp(620): warning C4820: “cv::QtFont”:“4”字节填充添加在 数据成员“cv::QtFont::font_face”后
+e:\opencv\build\include\opencv2\ml.hpp(1058): warning C4820: “cv::ml::DTrees::Split”:“3”字节填充添加在 数据成员“cv::ml::DTrees::Split::inversed”后
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(12): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(81): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(96): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(110): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(117): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(117): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(119): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(123): warning C4365: “参数”: 从“int”转换到“unsigned __int64”，有符号/无符号不匹配
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(188): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(182): warning C4189: “A”: 局部变量已初始化但不引用
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(196): warning C4459: “a”的声明隐藏了全局声明
+  c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(16): note: 参见“a”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(216): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(235): warning C4100: “argv”: 未引用的形参
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(235): warning C4100: “argc”: 未引用的形参
+e:\opencv\build\include\opencv2\core\matx.hpp(791): warning C4459: “a”的声明隐藏了全局声明
+  c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(16): note: 参见“a”的声明
+  e:\opencv\build\include\opencv2\core\types.hpp(2170): note: 参见对正在编译的函数 模板 实例化“cv::Matx<double,4,1>::Matx<4>(const cv::Matx<double,4,4> &,const cv::Matx<double,4,1> &,cv::Matx_MatMulOp)”的引用
+  e:\opencv\build\include\opencv2\core\types.hpp(2170): note: 参见对正在编译的函数 模板 实例化“cv::Matx<double,4,1>::Matx<4>(const cv::Matx<double,4,4> &,const cv::Matx<double,4,1> &,cv::Matx_MatMulOp)”的引用
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(278): warning C4514: “fpclassify”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(283): warning C4514: “fpclassify”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(288): warning C4514: “fpclassify”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(293): warning C4514: “signbit”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(298): warning C4514: “signbit”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(303): warning C4514: “signbit”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(308): warning C4514: “_fpcomp”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(313): warning C4514: “_fpcomp”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(318): warning C4514: “_fpcomp”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(794): warning C4514: “_chgsignl”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(801): warning C4514: “_copysignl”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(855): warning C4514: “_hypotl”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(40): warning C4514: “pow”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(50): warning C4514: “acos”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(55): warning C4514: “acosh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(60): warning C4514: “asin”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(65): warning C4514: “asinh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(70): warning C4514: “atan”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(75): warning C4514: “atanh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(80): warning C4514: “atan2”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(85): warning C4514: “cbrt”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(90): warning C4514: “ceil”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(95): warning C4514: “copysign”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(101): warning C4514: “cos”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(106): warning C4514: “cosh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(111): warning C4514: “erf”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(116): warning C4514: “erfc”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(121): warning C4514: “exp”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(126): warning C4514: “exp2”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(131): warning C4514: “expm1”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(136): warning C4514: “fabs”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(141): warning C4514: “fdim”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(146): warning C4514: “floor”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(151): warning C4514: “fma”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(157): warning C4514: “fmax”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(162): warning C4514: “fmin”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(167): warning C4514: “fmod”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(172): warning C4514: “frexp”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(177): warning C4514: “hypot”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(182): warning C4514: “ilogb”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(187): warning C4514: “ldexp”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(192): warning C4514: “lgamma”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(197): warning C4514: “llrint”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(202): warning C4514: “llround”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(207): warning C4514: “log”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(212): warning C4514: “log10”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(217): warning C4514: “log1p”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(222): warning C4514: “log2”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(227): warning C4514: “logb”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(232): warning C4514: “lrint”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(237): warning C4514: “lround”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(242): warning C4514: “modf”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(247): warning C4514: “nearbyint”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(252): warning C4514: “nextafter”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(257): warning C4514: “nexttoward”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(263): warning C4514: “pow”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(269): warning C4514: “pow”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(274): warning C4514: “remainder”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(279): warning C4514: “remquo”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(285): warning C4514: “rint”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(290): warning C4514: “round”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(295): warning C4514: “scalbln”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(300): warning C4514: “scalbn”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(305): warning C4514: “sin”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(310): warning C4514: “sinh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(315): warning C4514: “sqrt”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(320): warning C4514: “tan”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(325): warning C4514: “tanh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(330): warning C4514: “tgamma”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(335): warning C4514: “trunc”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(340): warning C4514: “abs”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(345): warning C4514: “acos”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(350): warning C4514: “acosh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(355): warning C4514: “asin”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(360): warning C4514: “asinh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(365): warning C4514: “atan”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(370): warning C4514: “atanh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(375): warning C4514: “atan2”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(381): warning C4514: “cbrt”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(386): warning C4514: “ceil”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(391): warning C4514: “copysign”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(397): warning C4514: “cos”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(402): warning C4514: “cosh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(407): warning C4514: “erf”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(412): warning C4514: “erfc”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(417): warning C4514: “exp”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(422): warning C4514: “exp2”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(427): warning C4514: “expm1”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(432): warning C4514: “fabs”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(437): warning C4514: “fdim”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(443): warning C4514: “floor”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(448): warning C4514: “fma”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(454): warning C4514: “fmax”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(460): warning C4514: “fmin”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(466): warning C4514: “fmod”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(472): warning C4514: “frexp”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(478): warning C4514: “hypot”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(484): warning C4514: “ilogb”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(489): warning C4514: “ldexp”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(495): warning C4514: “lgamma”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(500): warning C4514: “llrint”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(505): warning C4514: “llround”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(510): warning C4514: “log”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(515): warning C4514: “log10”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(520): warning C4514: “log1p”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(525): warning C4514: “log2”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(530): warning C4514: “logb”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(535): warning C4514: “lrint”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(540): warning C4514: “lround”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(545): warning C4514: “modf”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(551): warning C4514: “nearbyint”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(556): warning C4514: “nextafter”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(562): warning C4514: “nexttoward”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(568): warning C4514: “pow”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(574): warning C4514: “pow”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(580): warning C4514: “remainder”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(586): warning C4514: “remquo”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(592): warning C4514: “rint”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(597): warning C4514: “round”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(602): warning C4514: “scalbln”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(608): warning C4514: “scalbn”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(614): warning C4514: “sin”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(619): warning C4514: “sinh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(624): warning C4514: “sqrt”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(629): warning C4514: “tan”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(634): warning C4514: “tanh”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(639): warning C4514: “tgamma”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(644): warning C4514: “trunc”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(354): warning C4514: “abs”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(359): warning C4514: “abs”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(364): warning C4514: “div”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(369): warning C4514: “div”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(309): warning C4514: “vfwprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(340): warning C4514: “vfwprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(371): warning C4514: “_vfwprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(385): warning C4514: “_vwprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(399): warning C4514: “vwprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(412): warning C4514: “_vwprintf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(428): warning C4514: “vwprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(443): warning C4514: “_vwprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(457): warning C4514: “_vwprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(470): warning C4514: “_fwprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(489): warning C4514: “fwprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(507): warning C4514: “_fwprintf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(528): warning C4514: “fwprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(548): warning C4514: “_fwprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(567): warning C4514: “_fwprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(585): warning C4514: “_wprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(603): warning C4514: “wprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(620): warning C4514: “_wprintf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(640): warning C4514: “wprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(659): warning C4514: “_wprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(677): warning C4514: “_wprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(726): warning C4514: “vfwscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(759): warning C4514: “vfwscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(774): warning C4514: “_vwscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(788): warning C4514: “vwscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(801): warning C4514: “_vwscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(817): warning C4514: “vwscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(832): warning C4514: “_fwscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(851): warning C4514: “fwscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(869): warning C4514: “_fwscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(890): warning C4514: “fwscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(910): warning C4514: “_wscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(928): warning C4514: “wscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(945): warning C4514: “_wscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(965): warning C4514: “wscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1092): warning C4514: “_vsnwprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1120): warning C4514: “_vsnwprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1169): warning C4514: “_vswprintf_c”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1221): warning C4514: “_vswprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1274): warning C4514: “vswprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1321): warning C4514: “_vswprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1356): warning C4514: “_vscwprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1389): warning C4514: “_vscwprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1403): warning C4514: “__swprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1423): warning C4514: “_swprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1444): warning C4514: “_swprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1463): warning C4514: “swprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1506): warning C4514: “_swprintf_s_l”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “int swprintf_s(wchar_t *const ,const size_t,const wchar_t *const ,...)”: 函数未内联
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1528): note: 参见“swprintf_s”的声明
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1557): warning C4514: “_swprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1578): warning C4514: “_swprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1598): warning C4514: “_swprintf_c_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1619): warning C4514: “_swprintf_c”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1639): warning C4514: “_snwprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1665): warning C4514: “_snwprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1690): warning C4514: “_snwprintf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1712): warning C4514: “_snwprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1740): warning C4514: “_scwprintf_l”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “int _scwprintf(const wchar_t *const ,...)”: 函数未内联
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1759): note: 参见“_scwprintf”的声明
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1777): warning C4514: “_scwprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1796): warning C4514: “_scwprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): warning C4514: “swprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1835): warning C4514: “vswprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1846): warning C4514: “_swprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1861): warning C4514: “_vswprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1919): warning C4514: “vswscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1954): warning C4514: “vswscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2017): warning C4514: “_swscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2037): warning C4514: “swscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2056): warning C4514: “_swscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2078): warning C4514: “swscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2099): warning C4514: “_snwscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2125): warning C4514: “_snwscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2150): warning C4514: “_snwscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(2171): warning C4514: “_snwscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(644): warning C4514: “vfprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(675): warning C4514: “vfprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(706): warning C4514: “_vfprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(720): warning C4514: “_vprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(734): warning C4514: “vprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(747): warning C4514: “_vprintf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(763): warning C4514: “vprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(778): warning C4514: “_vprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(792): warning C4514: “_vprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(805): warning C4514: “_fprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(824): warning C4514: “fprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(848): warning C4514: “_fprintf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(869): warning C4514: “fprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(889): warning C4514: “_fprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(908): warning C4514: “_fprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(926): warning C4514: “_printf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(944): warning C4514: “printf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(961): warning C4514: “_printf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(981): warning C4514: “printf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1000): warning C4514: “_printf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1018): warning C4514: “_printf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1066): warning C4514: “vfscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1100): warning C4514: “vfscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1116): warning C4514: “_vscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1130): warning C4514: “vscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1143): warning C4514: “_vscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1159): warning C4514: “vscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1174): warning C4514: “_fscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): warning C4514: “fscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1211): warning C4514: “_fscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1232): warning C4514: “fscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1252): warning C4514: “_scanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): warning C4514: “scanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1287): warning C4514: “_scanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1307): warning C4514: “scanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): warning C4514: “vsprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1506): warning C4514: “vsprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1553): warning C4514: “_vsprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1591): warning C4514: “_vsnprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1619): warning C4514: “vsnprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1664): warning C4514: “_vscprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1729): warning C4514: “_vsnprintf_c”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1744): warning C4514: “_sprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): warning C4514: “sprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1803): warning C4514: “_sprintf_s_l”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “int sprintf_s(char *const ,const size_t,const char *const ,...)”: 函数未内联
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1826): note: 参见“sprintf_s”的声明
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1854): warning C4514: “_sprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1875): warning C4514: “_sprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1895): warning C4514: “_snprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1932): warning C4514: “snprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): warning C4514: “_snprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1982): warning C4514: “_snprintf_c_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2003): warning C4514: “_snprintf_c”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2023): warning C4514: “_snprintf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2045): warning C4514: “_snprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2073): warning C4514: “_scprintf_l”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “int _scprintf(const char *const ,...)”: 函数未内联
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2091): note: 参见“_scprintf”的声明
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2108): warning C4514: “_scprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2126): warning C4514: “_scprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2174): warning C4514: “vsscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2235): warning C4514: “_sscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): warning C4514: “sscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2272): warning C4514: “_sscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2293): warning C4514: “sscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2321): warning C4514: “_snscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2345): warning C4514: “_snscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2369): warning C4514: “_snscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2393): warning C4514: “_snscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_memcpy_s.h(64): warning C4514: “memmove_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_memory.h(97): warning C4514: “memchr”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(159): warning C4514: “wcsnlen_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(240): warning C4514: “_wcstok”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(254): warning C4514: “wcstok”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(532): warning C4514: “wcschr”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(538): warning C4514: “wcspbrk”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(544): warning C4514: “wcsrchr”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(551): warning C4514: “wcsstr”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(373): warning C4514: “strnlen_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(517): warning C4514: “strchr”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(523): warning C4514: “strpbrk”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(529): warning C4514: “strrchr”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(535): warning C4514: “strstr”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::exception_ptr std::exception_ptr::_Current_exception(void) throw()”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception(299): note: 参见“std::exception_ptr::_Current_exception”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::exception_ptr std::current_exception(void) noexcept”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception(358): note: 参见“std::current_exception”的声明
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(100): warning C4514: “_vcwprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(127): warning C4514: “_vcwprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(154): warning C4514: “_vcwprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(167): warning C4514: “_cwprintf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(185): warning C4514: “_cwprintf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(202): warning C4514: “_cwprintf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(220): warning C4514: “_cwprintf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(237): warning C4514: “_cwprintf_p_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(255): warning C4514: “_cwprintf_p”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(303): warning C4514: “_vcwscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(335): warning C4514: “_vcwscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(348): warning C4514: “_cwscanf_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(371): warning C4514: “_cwscanf”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(393): warning C4514: “_cwscanf_s_l”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wconio.h(411): warning C4514: “_cwscanf_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wio.h(227): warning C4514: “_wopen”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wio.h(240): warning C4514: “_wsopen”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wtime.h(185): warning C4514: “_wctime”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wtime.h(192): warning C4514: “_wctime_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\sys\stat.h(236): warning C4514: “fstat”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\sys\stat.h(241): warning C4514: “stat”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\wchar.h(181): warning C4514: “fwide”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\wchar.h(190): warning C4514: “mbsinit”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\wchar.h(269): warning C4514: “wmemchr”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_new.h(101): warning C4514: “operator new[]”: 未引用的内联函数已移除
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\vcruntime_new.h(107): warning C4514: “operator delete[]”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\ctype.h(175): warning C4514: “_ischartype_l”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::locale::name(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocale(447): note: 参见“std::locale::name”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::error_code::message(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(268): note: 参见“std::error_code::message”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_System_error::_Makestr(std::error_code,std::string)”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(502): note: 参见“std::_System_error::_Makestr”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Generic_error_category::message(int) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(594): note: 参见“std::_Generic_error_category::message”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Iostream_error_category::message(int) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(615): note: 参见“std::_Iostream_error_category::message”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_System_error_category::message(int) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\system_error(639): note: 参见“std::_System_error_category::message”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::locale std::ios_base::getloc(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xiosbase(422): note: 参见“std::ios_base::getloc”的声明
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): warning C4514: “ctime”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(486): warning C4514: “difftime”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(495): warning C4514: “gmtime”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): warning C4514: “localtime”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(516): warning C4514: “_mkgmtime”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(524): warning C4514: “mktime”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(531): warning C4514: “time”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(539): warning C4514: “timespec_get”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(549): warning C4514: “ctime_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(559): warning C4514: “gmtime_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(568): warning C4514: “localtime_s”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(388): warning C4514: “_open”: 未引用的内联函数已移除
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_io.h(401): warning C4514: “_sopen”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(82): warning C4514: “std::abs”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(83): warning C4514: “std::abs”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(84): warning C4514: “std::abs”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(85): warning C4514: “std::abs”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(637): warning C4514: “cv::String::String”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(644): warning C4514: “cv::String::String”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(683): warning C4514: “cv::String::operator =”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(693): warning C4514: “cv::String::operator =”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(708): warning C4514: “cv::String::operator +=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(715): warning C4514: “cv::String::operator +=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(722): warning C4514: “cv::String::size”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(728): warning C4514: “cv::String::length”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(734): warning C4514: “cv::String::operator []”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(740): warning C4514: “cv::String::operator []”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(746): warning C4514: “cv::String::begin”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(752): warning C4514: “cv::String::end”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(758): warning C4514: “cv::String::empty”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(777): warning C4514: “cv::String::clear”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(797): warning C4514: “cv::String::substr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(817): warning C4514: “cv::String::find”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(823): warning C4514: “cv::String::find”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(829): warning C4514: “cv::String::find”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(860): warning C4514: “cv::String::rfind”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(866): warning C4514: “cv::String::rfind”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(872): warning C4514: “cv::String::rfind”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(892): warning C4514: “cv::String::find_first_of”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(898): warning C4514: “cv::String::find_first_of”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(904): warning C4514: “cv::String::find_first_of”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(933): warning C4514: “cv::String::find_last_of”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(939): warning C4514: “cv::String::find_last_of”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(945): warning C4514: “cv::String::find_last_of”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(959): warning C4514: “cv::String::toLowerCase”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::String cv::operator +(const cv::String &,const cv::String &)”: 函数未内联
+  e:\opencv\build\include\opencv2\core\cvstd.hpp(977): note: 参见“cv::operator +”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::String cv::operator +(const cv::String &,const char *)”: 函数未内联
+  e:\opencv\build\include\opencv2\core\cvstd.hpp(987): note: 参见“cv::operator +”的声明
+e:\opencv\build\include\opencv2\core\cvstd.hpp(998): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::String cv::operator +(const cv::String &,char)”: 函数未内联
+  e:\opencv\build\include\opencv2\core\cvstd.hpp(1009): note: 参见“cv::operator +”的声明
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1019): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1028): warning C4514: “cv::operator ==”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1029): warning C4514: “cv::operator ==”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1030): warning C4514: “cv::operator ==”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1031): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1032): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1033): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1034): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1035): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1036): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1037): warning C4514: “cv::operator <=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1038): warning C4514: “cv::operator <=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1039): warning C4514: “cv::operator <=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1040): warning C4514: “cv::operator >”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1041): warning C4514: “cv::operator >”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1042): warning C4514: “cv::operator >”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1043): warning C4514: “cv::operator >=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1044): warning C4514: “cv::operator >=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1045): warning C4514: “cv::operator >=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.hpp(1054): warning C4514: “std::swap”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\ptr.inl.hpp(62): warning C4514: “cv::detail::PtrOwner::PtrOwner”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\ptr.inl.hpp(65): warning C4514: “cv::detail::PtrOwner::incRef”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\base.hpp(353): warning C4514: “cv::errorNoReturn”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\base.hpp(445): warning C4514: “cv::cv_abs”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\base.hpp(446): warning C4514: “cv::cv_abs”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\base.hpp(447): warning C4514: “cv::cv_abs”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\base.hpp(448): warning C4514: “cv::cv_abs”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\base.hpp(516): warning C4514: “cv::normL2Sqr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\base.hpp(547): warning C4514: “cv::normL1”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\base.hpp(557): warning C4514: “cv::normL1”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(130): warning C4514: “cvFloor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(153): warning C4514: “cvCeil”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(175): warning C4514: “cvIsNaN”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(189): warning C4514: “cvIsInf”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(231): warning C4514: “cvRound”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(237): warning C4514: “cvFloor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(254): warning C4514: “cvFloor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(260): warning C4514: “cvCeil”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(277): warning C4514: “cvCeil”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(283): warning C4514: “cvIsNaN”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\fast_math.hpp(291): warning C4514: “cvIsInf”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(102): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(103): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(105): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(90): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(94): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(96): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(98): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(100): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(112): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(113): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(115): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(122): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(123): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(125): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(126): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(131): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(133): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(134): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(139): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(140): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(143): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\saturate.hpp(144): warning C4514: “cv::saturate_cast”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\matx.hpp(338): warning C4514: “cv::Vec<float,2>::conj”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\matx.hpp(338): warning C4514: “cv::Vec<double,2>::conj”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\matx.hpp(338): warning C4514: “cv::Vec<float,4>::conj”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\matx.hpp(338): warning C4514: “cv::Vec<double,4>::conj”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\matx.hpp(345): warning C4514: “cv::Vec<float,3>::cross”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\matx.hpp(345): warning C4514: “cv::Vec<double,3>::cross”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1840): warning C4514: “cv::RotatedRect::RotatedRect”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1852): warning C4514: “cv::Range::Range”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1860): warning C4514: “cv::Range::size”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1866): warning C4514: “cv::Range::empty”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1885): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1891): warning C4514: “cv::operator !”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1905): warning C4514: “cv::operator &=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1918): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(1924): warning C4514: “cv::operator -”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2168): warning C4514: “cv::operator *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2179): warning C4514: “cv::KeyPoint::KeyPoint”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2183): warning C4514: “cv::KeyPoint::KeyPoint”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2187): warning C4514: “cv::KeyPoint::KeyPoint”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2195): warning C4514: “cv::DMatch::DMatch”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2199): warning C4514: “cv::DMatch::DMatch”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2203): warning C4514: “cv::DMatch::DMatch”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2207): warning C4514: “cv::DMatch::operator <”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types.hpp(2217): warning C4514: “cv::TermCriteria::TermCriteria”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\bufferpool.hpp(19): warning C4514: “cv::BufferPoolController::~BufferPoolController”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.hpp(410): warning C4514: “cv::MatAllocator::MatAllocator”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(65): warning C4514: “cv::_InputArray::getObj”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(66): warning C4514: “cv::_InputArray::getFlags”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(67): warning C4514: “cv::_InputArray::getSz”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(70): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(72): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(73): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(74): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(81): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(104): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(110): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(113): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(116): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(119): warning C4514: “cv::_InputArray::_InputArray”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::Mat cv::_InputArray::getMat(int) const”: 函数未内联
+  e:\opencv\build\include\opencv2\core\mat.inl.hpp(124): note: 参见“cv::_InputArray::getMat”的声明
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(131): warning C4514: “cv::_InputArray::isMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(132): warning C4514: “cv::_InputArray::isUMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(133): warning C4514: “cv::_InputArray::isMatVector”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(134): warning C4514: “cv::_InputArray::isUMatVector”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(135): warning C4514: “cv::_InputArray::isMatx”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(136): warning C4514: “cv::_InputArray::isVector”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(137): warning C4514: “cv::_InputArray::isGpuMatVector”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(142): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(144): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(146): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(153): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(200): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(203): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(206): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(209): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(215): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(218): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(221): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(224): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(228): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(231): warning C4514: “cv::_OutputArray::_OutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(236): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(237): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(238): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(239): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(240): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(241): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(247): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(294): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(297): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(300): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(303): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(306): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(309): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(312): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(315): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(317): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(320): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(323): warning C4514: “cv::_InputOutputArray::_InputOutputArray”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(343): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(352): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(360): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(369): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(377): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(405): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(438): warning C4514: “cv::Mat::Mat”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::Mat cv::Mat::row(int) const”: 函数未内联
+  e:\opencv\build\include\opencv2\core\mat.inl.hpp(604): note: 参见“cv::Mat::row”的声明
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(610): warning C4514: “cv::Mat::col”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(616): warning C4514: “cv::Mat::rowRange”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(622): warning C4514: “cv::Mat::rowRange”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(628): warning C4514: “cv::Mat::colRange”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(634): warning C4514: “cv::Mat::colRange”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::Mat cv::Mat::clone(void) const”: 函数未内联
+  e:\opencv\build\include\opencv2\core\mat.inl.hpp(640): note: 参见“cv::Mat::clone”的声明
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(648): warning C4514: “cv::Mat::assignTo”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(667): warning C4514: “cv::Mat::create”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(673): warning C4514: “cv::Mat::addref”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(690): warning C4514: “cv::Mat::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(696): warning C4514: “cv::Mat::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(702): warning C4514: “cv::Mat::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(714): warning C4514: “cv::Mat::isSubmatrix”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(738): warning C4514: “cv::Mat::depth”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(750): warning C4514: “cv::Mat::step1”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(756): warning C4514: “cv::Mat::empty”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(773): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(801): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(811): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(841): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(852): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(885): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(899): warning C4514: “cv::Mat::ptr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1133): warning C4514: “cv::Mat::push_back”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1208): warning C4514: “cv::MatSize::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1221): warning C4514: “cv::MatSize::operator []”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1227): warning C4514: “cv::MatSize::operator const int *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1249): warning C4514: “cv::MatSize::operator !=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1265): warning C4514: “cv::MatStep::MatStep”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1282): warning C4514: “cv::MatStep::operator size_t”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1288): warning C4514: “cv::MatStep::operator =”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1812): warning C4514: “cv::SparseMat::SparseMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1846): warning C4514: “cv::SparseMat::operator =”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1852): warning C4514: “cv::SparseMat::clone”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1860): warning C4514: “cv::SparseMat::assignTo”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1884): warning C4514: “cv::SparseMat::elemSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1890): warning C4514: “cv::SparseMat::elemSize1”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1896): warning C4514: “cv::SparseMat::type”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1902): warning C4514: “cv::SparseMat::depth”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1908): warning C4514: “cv::SparseMat::channels”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1914): warning C4514: “cv::SparseMat::size”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1920): warning C4514: “cv::SparseMat::size”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1931): warning C4514: “cv::SparseMat::dims”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1937): warning C4514: “cv::SparseMat::nzcount”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1943): warning C4514: “cv::SparseMat::hash”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1949): warning C4514: “cv::SparseMat::hash”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1955): warning C4514: “cv::SparseMat::hash”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(1961): warning C4514: “cv::SparseMat::hash”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2061): warning C4514: “cv::SparseMat::node”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2067): warning C4514: “cv::SparseMat::node”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2073): warning C4514: “cv::SparseMat::begin”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2079): warning C4514: “cv::SparseMat::begin”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2085): warning C4514: “cv::SparseMat::end”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2093): warning C4514: “cv::SparseMat::end”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2309): warning C4514: “cv::MatConstIterator::MatConstIterator”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2314): warning C4514: “cv::MatConstIterator::MatConstIterator”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2326): warning C4514: “cv::MatConstIterator::MatConstIterator”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2340): warning C4514: “cv::MatConstIterator::MatConstIterator”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2359): warning C4514: “cv::MatConstIterator::operator =”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2387): warning C4514: “cv::MatConstIterator::operator -=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2393): warning C4514: “cv::MatConstIterator::operator --”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2404): warning C4514: “cv::MatConstIterator::operator --”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2412): warning C4514: “cv::MatConstIterator::operator ++”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2422): warning C4514: “cv::MatConstIterator::operator ++”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2437): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2443): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2449): warning C4514: “cv::operator >”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2455): warning C4514: “cv::operator <=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2461): warning C4514: “cv::operator >=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2467): warning C4514: “cv::operator -”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2485): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2492): warning C4514: “cv::operator -”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2500): warning C4514: “cv::MatConstIterator::operator []”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2821): warning C4514: “cv::SparseMatConstIterator::operator ++”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2846): warning C4514: “cv::operator !=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2856): warning C4514: “cv::SparseMatIterator::SparseMatIterator”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2870): warning C4514: “cv::SparseMatIterator::operator =”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2883): warning C4514: “cv::SparseMatIterator::node”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(2896): warning C4514: “cv::SparseMatIterator::operator ++”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3103): warning C4514: “cv::MatExpr::MatExpr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3108): warning C4514: “cv::MatExpr::MatExpr”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::MatExpr::operator cv::Mat(void) const”: 函数未内联
+  e:\opencv\build\include\opencv2\core\mat.inl.hpp(3114): note: 参见“cv::MatExpr::operator cv::Mat”的声明
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3174): warning C4514: “cv::operator +=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3181): warning C4514: “cv::operator +=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3202): warning C4514: “cv::operator -=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3209): warning C4514: “cv::operator -=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3230): warning C4514: “cv::operator *=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3237): warning C4514: “cv::operator *=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3258): warning C4514: “cv::operator /=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3265): warning C4514: “cv::operator /=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3294): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3301): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3309): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3316): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3324): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3331): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3339): warning C4514: “cv::UMat::UMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3401): warning C4514: “cv::UMat::row”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3407): warning C4514: “cv::UMat::col”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3413): warning C4514: “cv::UMat::rowRange”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3419): warning C4514: “cv::UMat::rowRange”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3425): warning C4514: “cv::UMat::colRange”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3431): warning C4514: “cv::UMat::colRange”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3437): warning C4514: “cv::UMat::clone”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3445): warning C4514: “cv::UMat::assignTo”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3464): warning C4514: “cv::UMat::create”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3486): warning C4514: “cv::UMat::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3492): warning C4514: “cv::UMat::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3498): warning C4514: “cv::UMat::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3504): warning C4514: “cv::UMat::isContinuous”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3510): warning C4514: “cv::UMat::isSubmatrix”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3516): warning C4514: “cv::UMat::elemSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3534): warning C4514: “cv::UMat::depth”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3540): warning C4514: “cv::UMat::channels”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3546): warning C4514: “cv::UMat::step1”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3552): warning C4514: “cv::UMat::empty”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3595): warning C4514: “cv::UMat::operator =”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3631): warning C4514: “cv::UMatData::hostCopyObsolete”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3632): warning C4514: “cv::UMatData::deviceCopyObsolete”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3633): warning C4514: “cv::UMatData::deviceMemMapped”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3634): warning C4514: “cv::UMatData::copyOnMap”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3635): warning C4514: “cv::UMatData::tempUMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3636): warning C4514: “cv::UMatData::tempCopiedUMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3638): warning C4514: “cv::UMatData::markDeviceMemMapped”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3646): warning C4514: “cv::UMatData::markHostCopyObsolete”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3653): warning C4514: “cv::UMatData::markDeviceCopyObsolete”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3661): warning C4514: “cv::UMatDataAutoLock::UMatDataAutoLock”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\mat.inl.hpp(3662): warning C4514: “cv::UMatDataAutoLock::~UMatDataAutoLock”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(406): warning C4514: “cv::FileStorage::operator *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(409): warning C4514: “cv::FileStorage::operator *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(729): warning C4514: “cv::read”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(838): warning C4514: “cv::write”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(844): warning C4514: “cv::write”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(850): warning C4514: “cv::write”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(974): warning C4514: “cv::write”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(993): warning C4514: “cv::read”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1001): warning C4514: “cv::read”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1009): warning C4514: “cv::read”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1017): warning C4514: “cv::read”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1025): warning C4514: “cv::read”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1074): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1082): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1152): warning C4514: “cv::operator -”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1158): warning C4514: “cv::operator <”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1167): warning C4514: “cv::FileStorage::getFirstTopLevelNode”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1171): warning C4514: “cv::FileNode::empty”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1172): warning C4514: “cv::FileNode::isNone”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1173): warning C4514: “cv::FileNode::isSeq”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1174): warning C4514: “cv::FileNode::isMap”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1175): warning C4514: “cv::FileNode::isInt”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1176): warning C4514: “cv::FileNode::isReal”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1177): warning C4514: “cv::FileNode::isString”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1178): warning C4514: “cv::FileNode::operator *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1179): warning C4514: “cv::FileNode::operator *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1180): warning C4514: “cv::FileNode::operator int”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1181): warning C4514: “cv::FileNode::operator float”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1182): warning C4514: “cv::FileNode::operator double”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1183): warning C4514: “cv::FileNode::operator cv::String”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1186): warning C4514: “cv::FileNode::readRaw”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1188): warning C4514: “cv::FileNodeIterator::operator ->”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\persistence.hpp(1189): warning C4514: “cv::String::String”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core.hpp(2473): warning C4514: “cv::LDA::eigenvectors”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core.hpp(2477): warning C4514: “cv::LDA::eigenvalues”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core.hpp(2930): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(239): warning C4514: “cv::operator +=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(240): warning C4514: “cv::operator +=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(245): warning C4514: “cv::operator -=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(246): warning C4514: “cv::operator -=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(251): warning C4514: “cv::operator *=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(254): warning C4514: “cv::operator *=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(257): warning C4514: “cv::operator /=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(260): warning C4514: “cv::operator /=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(263): warning C4514: “cv::operator &=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(264): warning C4514: “cv::operator &=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(269): warning C4514: “cv::operator |=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(270): warning C4514: “cv::operator |=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(275): warning C4514: “cv::operator ^=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(276): warning C4514: “cv::operator ^=”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(289): warning C4514: “cv::SVD::SVD”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(291): warning C4514: “cv::SVD::solveZ”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(333): warning C4514: “cv::RNG::RNG”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(334): warning C4514: “cv::RNG::RNG”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(336): warning C4514: “cv::RNG::operator uchar”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(337): warning C4514: “cv::RNG::operator schar”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(338): warning C4514: “cv::RNG::operator ushort”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(339): warning C4514: “cv::RNG::operator short”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(340): warning C4514: “cv::RNG::operator int”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(341): warning C4514: “cv::RNG::operator unsigned int”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(345): warning C4514: “cv::RNG::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(346): warning C4514: “cv::RNG::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(349): warning C4514: “cv::RNG::uniform”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(350): warning C4514: “cv::RNG::uniform”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(371): warning C4514: “cv::format”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(388): warning C4514: “cv::print”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\operations.hpp(394): warning C4514: “cv::print”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(86): warning C4514: “cv::String::String”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(97): warning C4514: “cv::String::operator =”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(109): warning C4514: “cv::String::operator +=”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::String::operator std::string(void) const”: 函数未内联
+  e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(116): note: 参见“cv::String::operator std::string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “cv::String cv::operator +(const cv::String &,const std::string &)”: 函数未内联
+  e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(122): note: 参见“cv::operator +”的声明
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(133): warning C4514: “cv::operator +”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(144): warning C4514: “cv::FileNode::operator std::string”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(152): warning C4514: “cv::operator >>”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(160): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(166): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\cvstd.inl.hpp(181): warning C4514: “cv::operator <<”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\utility.hpp(314): warning C4514: “cv::alignSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\utility.hpp(341): warning C4514: “cv::getElemSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\utility.hpp(476): warning C4514: “cv::AutoLock::AutoLock”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\utility.hpp(477): warning C4514: “cv::AutoLock::~AutoLock”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\utility.hpp(871): warning C4514: “cv::CommandLineParser::get”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\utility.hpp(875): warning C4514: “cv::CommandLineParser::get”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(215): warning C4514: “cvRNG”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(242): warning C4514: “cvRandReal”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(334): warning C4514: “_IplImage::_IplImage”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(527): warning C4514: “CvMat::CvMat”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(557): warning C4514: “cvmGet”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(584): warning C4514: “cvmSet”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(601): warning C4514: “cvIplDepth”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(651): warning C4514: “CvMatND::CvMatND”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(809): warning C4514: “cvRectToROI”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(822): warning C4514: “cvROIToRect”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(845): warning C4514: “CvTermCriteria::CvTermCriteria”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(846): warning C4514: “CvTermCriteria::operator cv::TermCriteria”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(852): warning C4514: “cvTermCriteria”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(882): warning C4514: “cvPoint”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(920): warning C4514: “cvPointTo32f”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(953): warning C4514: “cvPoint3D32f”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(973): warning C4514: “cvPoint2D64f”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(993): warning C4514: “cvPoint3D64f”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1023): warning C4514: “cvSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1049): warning C4514: “cvSize2D32f”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1069): warning C4514: “CvBox2D::CvBox2D”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1070): warning C4514: “CvBox2D::CvBox2D”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1071): warning C4514: “CvBox2D::operator cv::RotatedRect”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1104): warning C4514: “CvSlice::CvSlice”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1105): warning C4514: “CvSlice::operator cv::Range”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1130): warning C4514: “CvScalar::CvScalar”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1156): warning C4514: “cvRealScalar”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1164): warning C4514: “cvScalarAll”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\types_c.h(1688): warning C4514: “cvAttrList”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(298): warning C4514: “cvDecRefData”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(324): warning C4514: “cvIncRefData”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(380): warning C4514: “cvGetRow”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(406): warning C4514: “cvGetCol”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(475): warning C4514: “cvReleaseMatND”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(542): warning C4514: “cvGetNextSparseNode”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(1062): warning C4514: “cvSubS”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(1694): warning C4514: “cvCloneSeq”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(1737): warning C4514: “cvSetNew”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(1752): warning C4514: “cvSetRemoveByPtr”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(1767): warning C4514: “cvGetSetElem”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(2331): warning C4514: “cvReadIntByName”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(2362): warning C4514: “cvReadRealByName”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(2391): warning C4514: “cvReadStringByName”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(2423): warning C4514: “cvReadByName”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\core_c.h(2770): warning C4514: “cv::cvarrToMatND”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc.hpp(4287): warning C4514: “cv::LineIterator::operator *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc.hpp(4302): warning C4514: “cv::LineIterator::operator ++”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc.hpp(4310): warning C4514: “cv::LineIterator::pos”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc\types_c.h(404): warning C4514: “CvMoments::CvMoments”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc\types_c.h(405): warning C4514: “CvMoments::CvMoments”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc\types_c.h(415): warning C4514: “CvMoments::operator cv::Moments”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc\imgproc_c.h(530): warning C4514: “cvContourPerimeter”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc\imgproc_c.h(771): warning C4514: “cvCalcHist”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc\imgproc_c.h(1036): warning C4514: “cvEllipseBox”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\imgproc\imgproc_c.h(1157): warning C4514: “cvFont”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\features2d.hpp(101): warning C4514: “cv::KeyPointsFilter::KeyPointsFilter”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\features2d.hpp(976): warning C4514: “cv::DescriptorMatcher::clone_op”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\features2d.hpp(1302): warning C4514: “cv::BOWImgDescriptorExtractor::compute2”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect.hpp(124): warning C4514: “cv::SimilarRects::SimilarRects”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect.hpp(125): warning C4514: “cv::SimilarRects::operator ()”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect.hpp(345): warning C4514: “cv::HOGDescriptor::HOGDescriptor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect.hpp(351): warning C4514: “cv::HOGDescriptor::HOGDescriptor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect.hpp(362): warning C4514: “cv::HOGDescriptor::HOGDescriptor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect.hpp(367): warning C4514: “cv::HOGDescriptor::HOGDescriptor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(73): warning C4514: “cv::DetectionBasedTracker::IDetector::IDetector”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(82): warning C4514: “cv::DetectionBasedTracker::IDetector::setMinObjectSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(86): warning C4514: “cv::DetectionBasedTracker::IDetector::setMaxObjectSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(90): warning C4514: “cv::DetectionBasedTracker::IDetector::getMinObjectSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(94): warning C4514: “cv::DetectionBasedTracker::IDetector::getMaxObjectSize”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(98): warning C4514: “cv::DetectionBasedTracker::IDetector::getScaleFactor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(102): warning C4514: “cv::DetectionBasedTracker::IDetector::setScaleFactor”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(106): warning C4514: “cv::DetectionBasedTracker::IDetector::getMinNeighbours”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(110): warning C4514: “cv::DetectionBasedTracker::IDetector::setMinNeighbours”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(152): warning C4514: “cv::DetectionBasedTracker::ExtObject::ExtObject”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp(193): warning C4514: “cv::DetectionBasedTracker::TrackedObject::TrackedObject”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\affine.hpp(463): warning C4514: “cv::operator *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\core\affine.hpp(474): warning C4514: “cv::operator *”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\videoio\videoio_c.h(498): warning C4514: “CV_FOURCC”: 未引用的内联函数已移除
+e:\opencv\build\include\opencv2\ml.hpp(140): warning C4514: “cv::ml::TrainData::missingValue”: 未引用的内联函数已移除
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> std::numpunct<wchar_t>::do_truename(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(215): note: 参见“std::numpunct<wchar_t>::do_truename”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> std::numpunct<wchar_t>::do_falsename(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(210): note: 参见“std::numpunct<wchar_t>::do_falsename”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::numpunct<wchar_t>::do_grouping(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(205): note: 参见“std::numpunct<wchar_t>::do_grouping”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::numpunct<char>::do_truename(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(215): note: 参见“std::numpunct<char>::do_truename”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::numpunct<char>::do_falsename(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(210): note: 参见“std::numpunct<char>::do_falsename”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::numpunct<char>::do_grouping(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(205): note: 参见“std::numpunct<char>::do_grouping”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> std::numpunct<wchar_t>::truename(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(107): note: 参见“std::numpunct<wchar_t>::truename”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::basic_string<wchar_t,std::char_traits<wchar_t>,std::allocator<wchar_t>> std::numpunct<wchar_t>::falsename(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(102): note: 参见“std::numpunct<wchar_t>::falsename”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::numpunct<char>::truename(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(107): note: 参见“std::numpunct<char>::truename”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::basic_string<char,std::char_traits<char>,std::allocator<char>> std::numpunct<char>::falsename(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(102): note: 参见“std::numpunct<char>::falsename”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::end(void) noexcept”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1604): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::end”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::_String_iterator<std::_String_val<std::_Simple_types<char>>> std::basic_string<char,std::char_traits<char>,std::allocator<char>>::begin(void) noexcept”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(1594): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::begin”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::numpunct<wchar_t>::grouping(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(97): note: 参见“std::numpunct<wchar_t>::grouping”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::numpunct<char>::grouping(void) const”: 函数未内联
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xlocnum(97): note: 参见“std::numpunct<char>::grouping”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Integral_to_string<int>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(488): note: 参见“std::_Integral_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Integral_to_string<unsigned int>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=unsigned int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(488): note: 参见“std::_Integral_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Integral_to_string<long>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=long
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(488): note: 参见“std::_Integral_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Integral_to_string<unsigned long>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=unsigned long
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(488): note: 参见“std::_Integral_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Integral_to_string<__int64>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=__int64
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(488): note: 参见“std::_Integral_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Integral_to_string<unsigned __int64>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(488): note: 参见“std::_Integral_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Floating_to_string<float>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=float
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(498): note: 参见“std::_Floating_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Floating_to_string<double>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(498): note: 参见“std::_Floating_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::string std::_Floating_to_string<long double>(const char *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=long double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(498): note: 参见“std::_Floating_to_string”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Integral_to_wstring<int>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(511): note: 参见“std::_Integral_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Integral_to_wstring<unsigned int>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=unsigned int
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(511): note: 参见“std::_Integral_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Integral_to_wstring<long>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=long
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(511): note: 参见“std::_Integral_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Integral_to_wstring<unsigned long>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=unsigned long
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(511): note: 参见“std::_Integral_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Integral_to_wstring<__int64>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=__int64
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(511): note: 参见“std::_Integral_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Integral_to_wstring<unsigned __int64>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(511): note: 参见“std::_Integral_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Floating_to_wstring<float>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=float
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(521): note: 参见“std::_Floating_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Floating_to_wstring<double>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(521): note: 参见“std::_Floating_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “std::wstring std::_Floating_to_wstring<long double>(const wchar_t *,_Ty)”: 函数未内联
+          with
+          [
+              _Ty=long double
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\string(521): note: 参见“std::_Floating_to_wstring”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “T cv::CommandLineParser::get<cv::String>(int,bool) const”: 函数未内联
+          with
+          [
+              T=cv::String
+          ]
+  e:\opencv\build\include\opencv2\core\utility.hpp(711): note: 参见“cv::CommandLineParser::get”的声明
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(324): warning C4710: “T cv::CommandLineParser::get<cv::String>(const cv::String &,bool) const”: 函数未内联
+          with
+          [
+              T=cv::String
+          ]
+  e:\opencv\build\include\opencv2\core\utility.hpp(679): note: 参见“cv::CommandLineParser::get”的声明
+  haze-remove.vcxproj -> c:\users\buche\documents\visual studio 2015\Projects\haze-remove\x64\Debug\haze-remove.exe

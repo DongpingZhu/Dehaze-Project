@@ -1,0 +1,52 @@
+﻿Build started 2013-01-24 오전 1:40:15.
+     1>Project "F:\Research\Dehazing\Code\2013_01_21\Dehazing_SSE_CPP.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Dehazing_SSE_CPP.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Ot /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /arch:SSE2 /fp:precise /Zc:wchar_t /Zc:forScope /openmp /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dehazing.cpp dehazing_lowSpeed.cpp main.cpp main_img.cpp
+         dehazing.cpp
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>F:\opencv\build\include\opencv2/flann/flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': was declared deprecated
+                 F:\opencv\build\include\opencv2/flann/flann.hpp(278) : see reference to class template instantiation 'cv::flann::Index_<T>' being compiled
+     1>dehazing.cpp(1042): warning C4101: 'nSquaredOut' : unreferenced local variable
+     1>dehazing.cpp(1401): warning C4101: 'nSquaredOut' : unreferenced local variable
+     1>dehazing.cpp(2351): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>dehazing.cpp(2401): warning C4305: 'argument' : truncation from 'double' to 'float'
+         dehazing_lowSpeed.cpp
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>F:\opencv\build\include\opencv2/flann/flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': was declared deprecated
+                 F:\opencv\build\include\opencv2/flann/flann.hpp(278) : see reference to class template instantiation 'cv::flann::Index_<T>' being compiled
+         main.cpp
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>F:\opencv\build\include\opencv2/flann/flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': was declared deprecated
+                 F:\opencv\build\include\opencv2/flann/flann.hpp(278) : see reference to class template instantiation 'cv::flann::Index_<T>' being compiled
+     1>main.cpp(34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+         main_img.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Research\Dehazing\Code\2013_01_21\Release\Dehazing_SSE_CPP.exe" /INCREMENTAL:NO /NOLOGO opencv_calib3d231.lib opencv_contrib231.lib opencv_core231.lib opencv_features2d231.lib opencv_flann231.lib opencv_gpu231.lib opencv_haartraining_engine.lib opencv_highgui231.lib opencv_imgproc231.lib opencv_legacy231.lib opencv_ml231.lib opencv_objdetect231.lib opencv_ts231.lib opencv_video231.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Dehazing_SSE_CPP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Research\Dehazing\Code\2013_01_21\Release\Dehazing_SSE_CPP.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Research\Dehazing\Code\2013_01_21\Release\Dehazing_SSE_CPP.lib" /MACHINE:X86 Release\dehazing.obj
+         Release\dehazing_lowSpeed.obj
+         Release\main.obj
+         Release\main_img.obj
+         Generating code
+         Finished generating code
+         Dehazing_SSE_CPP.vcxproj -> F:\Research\Dehazing\Code\2013_01_21\Release\Dehazing_SSE_CPP.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\Research\Dehazing\Code\2013_01_21\Release\Dehazing_SSE_CPP.exe;#1" /manifest Release\Dehazing_SSE_CPP.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Dehazing_SSE_CPP.unsuccessfulbuild".
+         Touching "Release\Dehazing_SSE_CPP.lastbuildstate".
+     1>Done Building Project "F:\Research\Dehazing\Code\2013_01_21\Dehazing_SSE_CPP.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.67

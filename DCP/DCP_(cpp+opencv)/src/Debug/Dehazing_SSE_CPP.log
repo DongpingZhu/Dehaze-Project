@@ -1,0 +1,38 @@
+﻿Build started 2013-02-15 오전 1:45:06.
+     1>Project "F:\Research\Dehazing\Code\Publish\Dehazing_SSE_CPP.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Dehazing_SSE_CPP.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dehazing.cpp
+         dehazing.cpp
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>f:\opencv\build\include\opencv2\flann\flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': was declared deprecated
+                 f:\opencv\build\include\opencv2\flann\flann.hpp(278) : see reference to class template instantiation 'cv::flann::Index_<T>' being compiled
+     1>f:\research\dehazing\code\publish\dehazing.cpp(660): warning C4305: 'argument' : truncation from 'double' to 'float'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Research\Dehazing\Code\Publish\Debug\Dehazing_SSE_CPP.exe" /INCREMENTAL /NOLOGO opencv_imgproc231d.lib opencv_core231d.lib opencv_highgui231d.lib opencv_legacy231d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Dehazing_SSE_CPP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\Research\Dehazing\Code\Publish\Debug\Dehazing_SSE_CPP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Research\Dehazing\Code\Publish\Debug\Dehazing_SSE_CPP.lib" /MACHINE:X86 Debug\Dehazing_SSE_CPP.exe.embed.manifest.res
+         Debug\dehazing.obj
+         Debug\functions.obj
+         Debug\Guidedfilter.obj
+         Debug\main.obj
+         Debug\main_img.obj
+         Debug\Transmission.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Dehazing_SSE_CPP.exe.embed.manifest" /manifest Debug\Dehazing_SSE_CPP.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Dehazing_SSE_CPP.vcxproj -> F:\Research\Dehazing\Code\Publish\Debug\Dehazing_SSE_CPP.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Dehazing_SSE_CPP.unsuccessfulbuild".
+         Touching "Debug\Dehazing_SSE_CPP.lastbuildstate".
+     1>Done Building Project "F:\Research\Dehazing\Code\Publish\Dehazing_SSE_CPP.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.46

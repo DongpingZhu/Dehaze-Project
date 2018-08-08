@@ -1,0 +1,22 @@
+﻿  main.cpp
+e:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(12): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(81): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(96): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(110): warning C4244: “参数”: 从“float”转换到“const int”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(164): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(188): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(216): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\buche\documents\visual studio 2015\projects\haze-remove\haze-remove\main.cpp(218): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  guidedfilter.cpp
+e:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+opencv_world310d.lib(opencv_world310d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
